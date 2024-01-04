@@ -1,4 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kelvin==============================================================================================================================Software Engineer-----------------I love teaching computers do stuff.* 🌍  I'm based in India* ✉️  You can contact me at [user.candycode@gmail.com](mailto:user.candycode@gmail.com)* 🚀  I'm currently working on [Learning to implement multithreading and multi processing concepts for client server applications.](http://github.com/user-candycode/python-programs/tree/master/multithreading and multiprocessing)* 🧠  I'm learning Django,Python,GATE-subjects.* 🤝  I'm open to collaborating on any client server based applications using REST or event driven applications based on MVC design.* ⚡  I love extreme sports like scubadiving, skydiving etc.
+# Hi! ![Kelvin](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+## Software Engineer
+
+I love teaching computers to do stuff.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [user.candycode@gmail.com](mailto:user.candycode@gmail.com)
+* 🚀  I'm currently working on [Learning to implement multithreading and multiprocessing concepts for client-server applications.](http://github.com/user-candycode/python-programs/tree/master/multithreading%20and%20multiprocessing)
+* 🧠  I'm learning Django, Python, GATE-subjects.
+* 🤝  I'm open to collaborating on any client-server based applications using REST or event-driven applications based on MVC design.
+* ⚡  I love extreme sports like scuba diving, skydiving, etc.
+
 
 ### Skills
 
