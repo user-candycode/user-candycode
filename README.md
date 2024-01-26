@@ -6,7 +6,7 @@ I love teaching computers to do stuff.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [user.candycode@gmail.com](mailto:user.candycode@gmail.com)
-* 🚀  I'm currently working on [Learning to implement multithreading and multiprocessing concepts for client-server applications.](http://github.com/user-candycode/python-programs/tree/master/multithreading%20and%20multiprocessing)
+* 🚀  I'm currently working on problem solving by doing leet code problems.
 * 🧠  I'm learning Django, Python, GATE-subjects.
 * 🤝  I'm open to collaborating on any client-server based applications using REST or event-driven applications based on MVC design.
 * ⚡  Other than burning my eyes before a computer screen, I love extreme sports like scuba diving, skydiving, etc.
