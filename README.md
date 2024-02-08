@@ -9,7 +9,7 @@ I love teaching computers to do stuff.
 * 🚀  I'm currently working on learining parsers.
 * 🧠  I'm learning Django, Python, GATE-subjects.
 * 🤝  I'm open to collaborating on any client-server based applications using REST or event-driven applications based on MVC design.
-* ⚡  Other than burning my eyes before a computer screen, I love extreme sports like scuba diving, skydiving, etc.
+* ⚡  Other than burning my eyes before a computer screen, I love sports.
 
 
 ### Skills
